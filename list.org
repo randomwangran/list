@@ -1,0 +1,79 @@
+* OF list type
+** BiIndirectList
+** CompactListList
+** DynamicList
+** FixedList
+** IndirectList
+** List
+** PackedList
+** PtrList
+** SortableList
+** SubList
+** UIndirectList
+** UList
+** UPtrList
+
+
+* day-to-day list type
+ref: https://gist.github.com/shazow/2467329
+
+# Types of lists
+
+Catalogue of the different kinds of lists we compose in our day-to-day lives
+
+* Bucket list
+
+    Such as "Things to do before you die". Typically aspirational,
+completeable. Manual sorting (usually importance or desired completion order).
+* list
+
+    Such as "Weekend tasks to complete" or "Things to buy". Typically driven by
+necessary chores, completeable, and discarded upon completion. Sorted by
+urgency.
+
+* Best-of list
+
+    Such as "Top 10 movies of all time". Similar to bucket lists but
+retrospective. Sorted by quality.
+
+* Inventory list
+
+    Such as "Items for sale". Completeable. Various sorting (sometimes
+alphabetical, chronological, or some value metric like price).
+
+    Content of each item stays the same but the list shrinks when items are
+completed or grows when items are added or uncompleted.
+
+* Brainstorming list
+
+    Such as this list. Fleshed out over time, occasionally deeply nested. Often
+used as an outline before composing a narrative document. Manual sorting
+(usually follows a narrative).
+
+* Index list
+
+    A list of lists. One to rule them all. Sorted alphabetically or
+chronologically.
+
+* Check list
+
+    Such as "Server deployment checklist". Similar to the TODO list but
+recurring in usage. Completeable and resettable. Manual sorting (usually
+follows a narrative).
+
+    Another variation of this list is the Diagnostic list, such as the "Purity
+Quiz" passed around in chain letters. Similar to the Bucket list but used to
+categorize and classify conditions.
+
+* Timeline list
+
+    Such as "Books I've read". Sorted chronologically, and is append-only.
+Often used for keeping a log about some theme. Completed items from other lists
+form this kind of list.
+
+
+What other kinds of lists are there?
+
+What is a good way to distinguish different kinds of lists? Perhaps by the kind
+of engagement they require? For example, are they sorted/prioritized,
+completable, collaborative/personal/curated, time-sensitive/evergreen?
